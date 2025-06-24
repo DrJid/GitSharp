@@ -1,0 +1,6 @@
+{
+  "name": "UGX Coin",
+  "symbol": "UGXC", 
+  "description": "Stablecoin pegged 1:1 with the Ugandan Shilling",
+  "image": "https://raw.githubusercontent.com/DrJid/GitSharp/refs/heads/master/tools/ugxc-red.png"
+}
