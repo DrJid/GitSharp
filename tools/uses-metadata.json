@@ -1,0 +1,6 @@
+{
+  "name": "USD Strawberry",
+  "symbol": "USDS", 
+  "description": "Digital Ugandan Shilling Stablecoin pegged 1:1 with the Ugandan Shilling",
+  "image": "https://raw.githubusercontent.com/DrJid/GitSharp/refs/heads/master/tools/ugxc-strawberry.png"
+}
